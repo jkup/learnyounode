@@ -2,6 +2,22 @@
 
 Node.js resources in hopes of becoming a book some day
 
+## Chapter Ideas
+
+### Introduction
+
++ What is Node.js
++ Node vs. JavaScript
++ Staying up to date
++ ? Node for PHP / Python / Ruby developers
+
+### Getting Started
+
++ Hello World
++ File System
++ Async vs. sync
++ Events
+
 ## Books to read
 
 - [Node.js in Action](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572)
